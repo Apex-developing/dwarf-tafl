@@ -1,0 +1,17 @@
+{
+  "name": "Dwarf Tafl",
+  "short_name": "DwarfTafl",
+  "description": "An asymmetric tactical game on a hex board",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#121217",
+  "theme_color": "#121217",
+  "icons": [
+    {
+      "src": "assets/tokens/king.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

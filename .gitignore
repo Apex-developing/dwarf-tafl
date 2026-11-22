@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.sim/
+.DS_Store
+*.log
+
+# Editor / tool state
+.claude/
+.vscode/
+
+# Local scratch files
+scratch_*.png
+fit2.py
+
+# Duplicate of public/assets (source art kept locally, served from public/)
+/assets/
